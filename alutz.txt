@@ -13,6 +13,7 @@ Add a bit of text below your name. Remember to pull for new updates before you c
 
 
 *** Yumin	Cho
+I need three cups of coffee
 
 
 *** Banas Ajaykumar	Dalal
@@ -36,13 +37,14 @@ Add a bit of text below your name. Remember to pull for new updates before you c
 *** Najwa	Galvao Maia
 
 
-*** Katrina	Garcia
+*** Katrina	Garcia    :) 
 
 
 *** Christian	Gonzales
 
 
-*** Irina	Gorina
+*** Irina	Gorina 
+Some content here
 
 
 *** Kanami	Hidaka
@@ -68,6 +70,7 @@ What's brown and sticky? A stick.
 
 
 *** Sabitha	Mahesh
+Hello everyone!
 
 
 *** April	Malwatta
