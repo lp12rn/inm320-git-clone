@@ -37,13 +37,14 @@ I need three cups of coffee
 *** Najwa	Galvao Maia
 
 
-*** Katrina	Garcia
+*** Katrina	Garcia    :) 
 
 
 *** Christian	Gonzales
 
 
-*** Irina	Gorina
+*** Irina	Gorina 
+Some content here
 
 
 *** Kanami	Hidaka
@@ -65,6 +66,7 @@ I need three cups of coffee
 
 
 *** Amanda	Lutz
+What's brown and sticky? A stick.
 
 
 *** Sabitha	Mahesh
