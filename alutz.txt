@@ -42,7 +42,8 @@ Add a bit of text below your name. Remember to pull for new updates before you c
 *** Christian	Gonzales
 
 
-*** Irina	Gorina
+*** Irina	Gorina 
+Some content here
 
 
 *** Kanami	Hidaka
